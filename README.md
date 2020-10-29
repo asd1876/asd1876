@@ -12,6 +12,14 @@
 </code>
 </p>
 
+
+<a href="https://www.linkedin.com/in/asd1876/"><img align="right" height="30" src="https://img.icons8.com/dusk/30/000000/linkedin.png"></a>
+<a href="https://www.facebook.com/asd1876/"><img align="right" height="30" src="https://img.icons8.com/dusk/30/000000/facebook.png"></a>
+<a href="https://scholar.google.com/citations?asd1876"><img align="right" height="30" src="https://img.icons8.com/color/30/000000/google-scholar--v3.png"></a>
+<a href="https://medium.com/@asd1876"><img align="right" height="30" src="https://img.icons8.com/color/30/000000/medium-monogram.png"></a>
+<a href="https://stackoverflow.com/users/6asd1876"><img align="right" height="30" src="https://img.icons8.com/color/30/000000/stackoverflow.png"></a>
+
+
 ### Hi there 👋
 
 <!--
