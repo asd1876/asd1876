@@ -10,14 +10,10 @@
 
 <p align='center'>
 <strong>About Me </strong>
-
 </p>
 
-<p align='center'>
-
-  
+<p align='center'>  
 <img width="300px" height="140" src="https://github.com/asd1876/asd1876/blob/main/images/87ZWw9F.gif"><br> 
-<strong>About Me </strong>
 </p>
 
 
