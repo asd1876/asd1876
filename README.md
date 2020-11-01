@@ -1,4 +1,4 @@
-## Hello, I'm [Ash!](https://github.io) 👋 <img src="https://github.com/asd1876/asd1876/blob/main/images/wave.gif" width="30px">
+## Hello World, I'm [Ash!](https://github.io) 👋 <img src="https://github.com/asd1876/asd1876/blob/main/images/wave.gif" width="30px">
 - 🔭 I’m currently working on DL & ML
 - 🌱 I’m currently learning Computer Vision
 - 👯 I’m looking to collaborate on ML  based project
@@ -9,8 +9,9 @@
 - ⚡ Fun fact: Hacker
 
 <p align='center'>
-<img width="300px" height="140" src="https://github.com/asd1876/asd1876/blob/main/images/87ZWw9F.gif"><br> 
 <strong>About Me </strong>
+<img width="300px" height="140" src="https://github.com/asd1876/asd1876/blob/main/images/87ZWw9F.gif"><br> 
+
 </p>
 
 
