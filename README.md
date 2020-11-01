@@ -70,16 +70,9 @@ A Super fast account switcher for Steam Saves NO passwords or any user informati
 </div>
 
 
-
-[![Lb StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14542180&layout=default&theme=dark)](https://stackoverflow.com/users/14542180/backlog-giash?tab=profile)
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+<code>
+<img  src="https://komarev.com/ghpvc/?username=asd1876&color=dc143c&style=plastic" /> 
+  
+</code>
+</p>
