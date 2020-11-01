@@ -54,7 +54,15 @@ A Super fast account switcher for Steam Saves NO passwords or any user informati
 ![Visitor Count](https://profile-counter.glitch.me/{asd1876}/count.svg)
 </div>
 
-
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=asd1876&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=asd1876&hide=css,java,html&theme=tokyonight">
+</p>
+</details>
+Ab
 
 
 
