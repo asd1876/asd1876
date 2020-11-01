@@ -1,4 +1,18 @@
 ## Hello, I'm [Ash!](https://github.io) 👋 <img src="https://github.com/asd1876/asd1876/blob/main/images/wave.gif" width="30px">
+- 🔭 I’m currently working on DL & ML
+- 🌱 I’m currently learning Computer Vision
+- 👯 I’m looking to collaborate on ML  based project
+- 🤔 I’m looking for help with PG
+- 💬 Ask me about Nothing
+- 📫 How to reach me: Fb
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Hacker
+
+<p align='center'>
+<img width="300px" height="140" src="https://github.com/asd1876/asd1876/blob/main/images/87ZWw9F.gif"><br> 
+<strong>About Me </strong>
+</p>
+
 
 <a href="https://www.linkedin.com/in//">
   <img align="right" alt="A's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
