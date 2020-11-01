@@ -16,6 +16,8 @@
 <img width="300px" height="140" src="https://github.com/asd1876/asd1876/blob/main/images/87ZWw9F.gif"><br> 
 </p>
 
+A Super fast account switcher for Steam Saves NO passwords or any user information*. It works purely off changing a file and 2 registry keys. Wastes no time closing, switching and restarting Steam. NOTE: Not created for cheating purposes. All it does is change accounts. Use it as you see fit, accepting responsibility. A Super fast account switcher for Steam Saves NO passwords or any user information*. It works purely off changing a file and 2 registry keys. Wastes no time closing, switching and restarting Steam. NOTE: Not created for cheating purposes. All it does is change accounts. Use it as you see fit, accepting responsibility.
+
 
 <a href="https://www.linkedin.com/in//">
   <img align="right" alt="A's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
