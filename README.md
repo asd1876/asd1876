@@ -81,7 +81,7 @@ A Super fast account switcher for Steam Saves NO passwords or any user informati
 
 [![Lb StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14542180&layout=default&theme=dark)](https://stackoverflow.com/users/14542180/backlog-giash?tab=profile)
 
-<p align="right"> ## :mailbox: How to reach me :  </p>
+<p align="right">  :mailbox: How to reach me :  </p>
 <!--
 <a href="https://www.linkedin.com/in//">
   <img align="right" alt="A's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
