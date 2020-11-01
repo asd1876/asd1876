@@ -1,3 +1,68 @@
+## Hello, I'm [Ash!](https://github.io) 👋 <img src="https://github.com/asd1876/asd1876/blob/main/images/wave.gif" width="30px">
+
+<a href="https://www.linkedin.com/in//">
+  <img align="right" alt="A's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in//">
+  <img align="right" alt="A's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https:/">
+  <img align="right" alt="A.'s S" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
+
+<a href="https://l//">
+  <img align="right" alt="A.'s Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />
+</a>
+
+<a href="https://l//">
+  <img align="right" alt="A.'s Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+
+<!--
+
+**Languages and Tools:** 
+
+![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
+![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-black?logo=GNU%20Bash&style=social)&nbsp;&nbsp;
+![Matlab](https://img.shields.io/badge/-Matlab-black?logo=Mathworks&style=social)&nbsp;&nbsp;
+
+**Freameworks:** 
+
+![Keras](https://img.shields.io/badge/-Keras-black?logo=Keras&style=social)&nbsp;&nbsp;
+![scikit-learn](https://img.shields.io/badge/-scikit%20learn-black?logo=scikit-learn&style=social)&nbsp;&nbsp;
+![OpenCv](https://img.shields.io/badge/OpenCv-black?logo=Open%20Source%20initiative&style=social)&nbsp;&nbsp;
+![Flask](https://img.shields.io/badge/Flask-black?logo=Flask&style=social)&nbsp;&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-black?logo=TensorFlow&style=social)&nbsp;&nbsp;
+![Arduino](https://img.shields.io/badge/Arduino-black?logo=Arduino&style=social)&nbsp;&nbsp;
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-black?logo=Raspberry%20Pi&style=social)&nbsp;&nbsp;
+![](https://img.shields.io/badge/-black?logo= &style=social)&nbsp;&nbsp;
+![](https://img.shields.io/badge/-black?logo= &style=social)&nbsp;&nbsp;
+
+-->
+
+<a href="https://stackoverflow.com/users/6452525/rahat-zaman"><img align="right" height="30" src="https://img.shields.io/badge/-black?logo=Stack%20Overflow&style=social"></a>
+
+
+ ## Skills
+| Languages  | Frameworks | Others |
+| ---------- | ---------- | ---------- |
+| ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp; ![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)&nbsp;&nbsp; ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp; ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp; ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp; ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp; ![Matlab](https://img.shields.io/badge/-Matlab-black?logo=Mathworks&style=social)&nbsp;&nbsp;| ![Keras](https://img.shields.io/badge/-Keras-black?logo=Keras&style=social)&nbsp;&nbsp; ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-black?logo=scikit-learn&style=social)&nbsp;&nbsp; ![OpenCv](https://img.shields.io/badge/OpenCv-black?logo=Open%20Source%20initiative&style=social)&nbsp;&nbsp; ![Flask](https://img.shields.io/badge/Flask-black?logo=Flask&style=social)&nbsp;&nbsp; ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?logo=TensorFlow&style=social)&nbsp;&nbsp; | ![Arduino](https://img.shields.io/badge/Arduino-black?logo=Arduino&style=social)&nbsp;&nbsp; ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-black?logo=Raspberry%20Pi&style=social)&nbsp;&nbsp; ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp; ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp; ![Bash](https://img.shields.io/badge/-Bash-black?logo=GNU%20Bash&style=social)&nbsp;&nbsp; | 
+
+
+
+
+
 <div align="center">
 <code>
 <img  src="https://komarev.com/ghpvc/?username=asd1876&color=dc143c&style=plastic" /> 
@@ -89,9 +154,9 @@ Here are some ideas to get you started:
 
 
 ## Skills
-| Languages  | Frameworks |
-| ---------- | ---------- |
-| ![Python](https://img.shields.io/static/v1?label=Python&color=red&style=flat&logo=python) ![C++](https://img.shields.io/static/v1?label=C%2B%2B&message=5%20years&color=red&style=flat&logo=c%2B%2B) ![Bash](https://img.shields.io/static/v1?label=Bash&message=4%20years&color=green&style=flat&logo=gnu-bash) ![Java](https://img.shields.io/static/v1?label=Java&message=3%20years&color=red&style=flat&logo=java) ![Javascript](https://img.shields.io/static/v1?label=JS&message=4%20years&color=green&style=flat&logo=javascript) ![HTML](https://img.shields.io/static/v1?label=HTML&message=5%20years&color=7375CD&style=flat&logo=html5) ![CSS](https://img.shields.io/static/v1?label=CSS&message=5%20years&color=7375CD&style=flat&logo=css3)  | ![Keras](https://img.shields.io/static/v1?label=Keras&message=3%20years&color=orange&style=flat&logo=keras) ![OpenCV](https://img.shields.io/static/v1?label=OpenCV&message=3.5%20years&color=orange&style=flat&logo=opencv) ![SciKit-Learn](https://img.shields.io/static/v1?label=SciKit-Learn&message=2.5%20years&color=orange&style=flat&logo=tensorflow) ![PyQt](https://img.shields.io/static/v1?label=PyQt&message=4%20years&color=blue&style=flat&logo=qt) ![Django](https://img.shields.io/static/v1?label=Django&message=4%20years&color=blue&style=flat&logo=django) ![TensorFlow](https://img.shields.io/static/v1?label=TF&message=1.5%20years&color=orange&style=flat&logo=tensorflow) ![Android](https://img.shields.io/static/v1?label=Android&message=1%20years&color=blue&style=flat&logo=android) ![JQuery](https://img.shields.io/static/v1?label=JQuery&message=3%20years&color=purple&style=flat&logo=jquery) ![Bootstrap](https://img.shields.io/static/v1?label=Bootstrap&message=5%20years&color=purple&style=flat&logo=bootstrap)  |
+| Languages  | Frameworks | Others |
+| ---------- | ---------- | ---------- |
+| ![Python](https://img.shields.io/static/v1?label=Python&color=red&style=flat&logo=python) ![C++](https://img.shields.io/static/v1?label=C%2B%2B&message=5%20years&color=red&style=flat&logo=c%2B%2B) ![Bash](https://img.shields.io/static/v1?label=Bash&message=4%20years&color=green&style=flat&logo=gnu-bash) ![Java](https://img.shields.io/static/v1?label=Java&message=3%20years&color=red&style=flat&logo=java) ![Javascript](https://img.shields.io/static/v1?label=JS&message=4%20years&color=green&style=flat&logo=javascript) ![HTML](https://img.shields.io/static/v1?label=HTML&message=5%20years&color=7375CD&style=flat&logo=html5) ![CSS](https://img.shields.io/static/v1?label=CSS&message=5%20years&color=7375CD&style=flat&logo=css3)  | ![Keras](https://img.shields.io/static/v1?label=Keras&message=3%20years&color=orange&style=flat&logo=keras) ![OpenCV](https://img.shields.io/static/v1?label=OpenCV&message=3.5%20years&color=orange&style=flat&logo=opencv) ![SciKit-Learn](https://img.shields.io/static/v1?label=SciKit-Learn&message=2.5%20years&color=orange&style=flat&logo=tensorflow) ![PyQt](https://img.shields.io/static/v1?label=PyQt&message=4%20years&color=blue&style=flat&logo=qt) ![Django](https://img.shields.io/static/v1?label=Django&message=4%20years&color=blue&style=flat&logo=django) ![TensorFlow](https://img.shields.io/static/v1?label=TF&message=1.5%20years&color=orange&style=flat&logo=tensorflow) ![Android](https://img.shields.io/static/v1?label=Android&message=1%20years&color=blue&style=flat&logo=android) ![JQuery](https://img.shields.io/static/v1?label=JQuery&message=3%20years&color=purple&style=flat&logo=jquery) ![Bootstrap](https://img.shields.io/static/v1?label=Bootstrap&message=5%20years&color=purple&style=flat&logo=bootstrap)  | | 
 
 ---
 
