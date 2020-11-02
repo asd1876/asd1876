@@ -60,25 +60,6 @@ A Super fast account switcher for Steam Saves NO passwords or any user informati
 </details>
 
 
-<details open>
- <summary> 😇 <b>My Github  </b>: </summary>
-  
-<p align='left'>
-<strong>Viewer </strong>
-
-<a href="https://github.com/">
-  <img align="center" src="https://profile-counter.glitch.me/{asd1876}/count.svg" />
-</a>
-
-</p>
-
-<p align='right'>
-<a href="https://github.com/">
- <img align="center" src="https://github-readme-stackoverflow.vercel.app/?userID=14542180&layout=default&theme=dark" alt="Pawan's github stats"/>
-</a>
- </p>
-</details>
-
 
 
 | <h4> GitHub Viewer </h4> |  <h4> StackOverflow </h4>  |
