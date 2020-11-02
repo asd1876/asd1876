@@ -1,4 +1,5 @@
 ## Hello World, I'm [Ashraful!](https://github.io) 👋 <img src="https://github.com/asd1876/asd1876/blob/main/images/wave.gif" width="30px">
+- 💻 I'm a Student
 - 🔭 I’m currently working on DL & ML
 - 🌱 I’m currently learning Image Segmentation 
 - 👯 I’m looking to collaborate on ML & DL based project
