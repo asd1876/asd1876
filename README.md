@@ -11,7 +11,7 @@
 <!-- - 📫 How to reach me: Fb    -->
 
 <p align='center'>
-<strong> <h3> About Me </h3> </strong>
+<strong> About Me </strong>
 </p>
 
 <p align='center'>  
