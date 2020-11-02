@@ -62,10 +62,18 @@ A Super fast account switcher for Steam Saves NO passwords or any user informati
 
 
 
-| <h4> GitHub Viewer </h4> |  <h4> StackOverflow </h4>  |
-| ---------- | ----------   |
-| ![Visitor Count](https://profile-counter.glitch.me/{asd1876}/count.svg)  | [![Lb StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14542180&layout=default&theme=dark)](https://stackoverflow.com/users/14542180/backlog-giash?tab=profile) | 
-
+| <h4> GitHub Viewer </h4> |  <h4> StackOverflow </h4>  | :mailbox: How to reach me : |
+| ---------- | ----------   | ----------   |
+| ![Visitor Count](https://profile-counter.glitch.me/{asd1876}/count.svg)  | [![Lb StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14542180&layout=default&theme=dark)](https://stackoverflow.com/users/14542180/backlog-giash?tab=profile) | <a href="https://www.linkedin.com/in//">
+  <img align="right" alt="A's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" /> </a> <a href="https://www.linkedin.com/in//">
+  <img align="right" alt="A's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a> <a href="https:/">
+  <img align="right" alt="A.'s S" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a> <a href="https://l//">
+  <img align="right" alt="A.'s Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />
+</a> <a href="https://l//">
+  <img align="right" alt="A.'s Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a> |
 
 <p align="center">
 <code>
