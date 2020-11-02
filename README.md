@@ -7,7 +7,7 @@
 <!-- - 📫 How to reach me: Fb    -->
 - 😄 Pronouns: He/His
 - 🥅 2020 Goals: Write blog post
-- ⚡ Fun fact: I_am_Random_variable
+- ⚡ Fun fact: I_am_a_Random_variable
 
 <p align='center'>
 <strong>About Me </strong>
