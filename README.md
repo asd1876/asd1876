@@ -1,12 +1,13 @@
-## Hello World, I'm [Ash!](https://github.io) 👋 <img src="https://github.com/asd1876/asd1876/blob/main/images/wave.gif" width="30px">
+## Hello World, I'm [Ashraful!](https://github.io) 👋 <img src="https://github.com/asd1876/asd1876/blob/main/images/wave.gif" width="30px">
 - 🔭 I’m currently working on DL & ML
-- 🌱 I’m currently learning Computer Vision
-- 👯 I’m looking to collaborate on ML  based project
-- 🤔 I’m looking for help with PG
-- 💬 Ask me about Nothing
-- 📫 How to reach me: Fb
+- 🌱 I’m currently learning Image Segmentation 
+- 👯 I’m looking to collaborate on ML & DL based project
+- 🤔 I’m looking for help with Big Data Processing efficiently
+- 💬 Ask me about anything, I am happy to help
+<!-- - 📫 How to reach me: Fb    -->
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Hacker
+- 🥅 2020 Goals: Write blog post
+- ⚡ Fun fact: I_am_Random_variable
 
 <p align='center'>
 <strong>About Me </strong>
