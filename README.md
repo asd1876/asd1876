@@ -4,10 +4,10 @@
 - 👯 I’m looking to collaborate on ML & DL based project
 - 🤔 I’m looking for help with Big Data Processing efficiently
 - 💬 Ask me about anything, I am happy to help
-<!-- - 📫 How to reach me: Fb    -->
 - 😄 Pronouns: He/His
 - 🥅 2020 Goals: Write blog post
 - ⚡ Fun fact: I_am_a_Random_variable
+<!-- - 📫 How to reach me: Fb    -->
 
 <p align='center'>
 <strong>About Me </strong>
