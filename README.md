@@ -64,26 +64,5 @@ A Super fast account switcher for Steam Saves NO passwords or any user informati
 
 | <h4> GitHub Viewer </h4> |  <h4> StackOverflow </h4>  | :mailbox: How to reach me : |
 | ---------- | ----------   | ----------   |
-| ![Visitor Count](https://profile-counter.glitch.me/{asd1876}/count.svg)  | [![Lb StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14542180&layout=default&theme=dark)](https://stackoverflow.com/users/14542180/backlog-giash?tab=profile) | [<img align="right" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg"/>](mailto:jatinrao8630@gmail.com) [<img align="right" target="_blank" src=" "/>](https://www.linkedin.com/in/jatinrao/) 
-|
-
-<!--
-<p align="center">
-<code>
-<img  src="https://komarev.com/ghpvc/?username=asd1876&color=dc143c&style=plastic" /> 
-  
-</code>
-</p>
-
-
-<p align="right">  :mailbox: How to reach me :  </p>
-
-[<img align="right"  src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:jatinrao8630@gmail.com)
-[<img align="right" target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/jatinrao/)
-[<img align="right" target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/jatin2003/)
-[<img align="right" target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://www.twitter.com/iamjatinrao/)
-[<img align="right" target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/jatinrao.dev/)
-[<img align="right" target="_blank" src="https://img.icons8.com/bubbles/50/000000/discord-logo.png"/>](https://discord.gg/3Ks7sMA)
-
--->
+| ![Visitor Count](https://profile-counter.glitch.me/{asd1876}/count.svg)  | [![Lb StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14542180&layout=default&theme=dark)](https://stackoverflow.com/users/14542180/backlog-giash?tab=profile) | [<img align="right" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg"/>](mailto:jatinrao8630@gmail.com) [<img align="right" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/jatinrao/) [<img align="right" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"/>](https://www.linkedin.com/in/jatinrao/) [<img align="right" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg"/>](https://www.linkedin.com/in/jatinrao/) [<img align="right" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>](https://www.linkedin.com/in/jatinrao/) |
 
