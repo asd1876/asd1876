@@ -79,26 +79,11 @@ A Super fast account switcher for Steam Saves NO passwords or any user informati
  </p>
 </details>
 
-<div >
-  <div> AB</div>
-  <div> CD </div>
-</div>
 
 
-## GitHub Viewer
-![Visitor Count](https://profile-counter.glitch.me/{asd1876}/count.svg) 
-
-
-[![Lb StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14542180&layout=default&theme=dark)](https://stackoverflow.com/users/14542180/backlog-giash?tab=profile)
-
-<div align="right">
-
-  
-## GitHub Viewer
-![Visitor Count](https://profile-counter.glitch.me/{asd1876}/count.svg)
-
-[![Lb StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14542180&layout=default&theme=dark)](https://stackoverflow.com/users/14542180/backlog-giash?tab=profile)
-</div>
+| <h4> GitHub Viewer </h4> |  <h4> StackOverflow </h4>  |
+| ---------- | ----------   |
+| ![Visitor Count](https://profile-counter.glitch.me/{asd1876}/count.svg)  | [![Lb StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14542180&layout=default&theme=dark)](https://stackoverflow.com/users/14542180/backlog-giash?tab=profile) | 
 
 
 <p align="center">
